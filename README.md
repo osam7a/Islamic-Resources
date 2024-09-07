@@ -1,2 +1,2 @@
-# Muthakkir-Resources
-This is the resources repository for the Muthakkir device, including all Prayer Timings, Prayer Audios &amp; Athkar Audios.
+# Islamic-Resources
+This is a resources library for programmers interested in creating Islamic Apps, it includes Prayer Timings for multiple locations, Call To Prayer Audios, and Athkar Audios.
